@@ -1,2 +1,2 @@
 # coding-academy
-Repozytorium kodów na potrzeby Coding Academy
+05.06.2022 Aneta Rastawicka
